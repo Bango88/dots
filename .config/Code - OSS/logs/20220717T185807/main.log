@@ -1,0 +1,4 @@
+[2022-07-17 18:58:07.824] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-17 18:58:09.054] [main] [info] Starting extension host with pid 5615 (fork() took 8 ms).
+[2022-07-17 20:21:42.005] [main] [info] Waiting for extension host with pid 5615 to exit.
+[2022-07-17 20:21:42.012] [main] [info] Extension host with pid 5615 exited with code: 0, signal: null.

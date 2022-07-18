@@ -1,0 +1,4 @@
+[2022-07-17 20:35:12.030] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-17 20:35:13.105] [main] [info] Starting extension host with pid 2869 (fork() took 5 ms).
+[2022-07-17 20:35:53.687] [main] [info] Waiting for extension host with pid 2869 to exit.
+[2022-07-17 20:35:53.695] [main] [info] Extension host with pid 2869 exited with code: 0, signal: null.
