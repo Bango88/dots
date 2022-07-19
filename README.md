@@ -1,2 +1,2 @@
 # dots
-My general dotfiles.
+My general dotfiles. Using YADM
